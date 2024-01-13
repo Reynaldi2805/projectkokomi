@@ -1,0 +1,39 @@
+version,version_name,start_date,end_date,5_star_characters,rerun,mixed,revenue,banner_days,avg_revenue
+1.0,Welcome to Tevyat,2020-09-25,2020-10-19,Venti,N,N,30632752,25,1225310.08
+1.0,Welcome to Tevyat,2020-10-20,2020-11-10,Klee,N,N,22750080,22,1034094.55
+1.1,A New Star Approaches,2020-11-11,2020-11-30,Tartaglia,N,N,13443619,20,672180.95
+1.1,A New Star Approaches,2020-12-01,2020-12-22,Zhongli,N,N,16264892,22,739313.27
+1.2,The Chalk Prince and the Dragon,2020-12-23,2021-01-12,Albedo,N,N,11816107,21,562671.76
+1.2,The Chalk Prince and the Dragon,2021-01-13,2021-02-02,Ganyu,N,N,15669918,21,746186.57
+1.3,All That Glitters,2021-02-03,2021-02-17,Xiao,N,N,13145115,15,876341.0
+1.3,All That Glitters,2021-02-18,2021-03-02,Keqing,N,N,9505798,13,731215.23
+1.3,All That Glitters,2021-03-03,2021-03-16,Hu Tao,N,N,12481634,14,891545.29
+1.4,Invitation to Windblume,2021-03-17,2021-04-06,Venti (Rerun),Y,N,16614209,21,791152.81
+1.4,Invitation to Windblume,2021-04-07,2021-04-27,Tartaglia (Rerun),Y,N,6965445,21,331687.86
+1.5,Beneath the Light of Jadeite,2021-04-28,2021-05-18,Zhongli (Rerun),Y,N,10215165,21,486436.43
+1.5,Beneath the Light of Jadeite,2021-05-19,2021-06-08,Eula,N,N,12619390,21,600923.33
+1.6,Midsummer Island Adventure,2021-06-09,2021-06-29,Klee (Rerun),Y,N,7006180,21,333627.62
+1.6,Midsummer Island Adventure,2021-06-30,2021-07-20,Kaedehara Kazuha,N,N,9807112,21,467005.33
+2.0,Immovable God and the Eternal Euthymia,2021-07-21,2021-08-10,Kamisato Ayaka,N,N,16451006,21,783381.24
+2.0,Immovable God and the Eternal Euthymia,2021-08-11,2021-08-31,Yoimiya,N,N,8615144,21,410244.95
+2.1,Floating World Under the Moonlight,2021-09-01,2021-09-20,Raiden Shogun,N,N,33020905,20,1651045.25
+2.1,Floating World Under the Moonlight,2021-09-21,2021-10-12,Sangonomiya Kokomi,N,N,7020975,22,319135.23
+2.2,Into the Perilous Labyrinth of Fog,2021-10-13,2021-11-02,Tartaglia (2nd Rerun),Y,N,7785438,21,370735.14
+2.2,Into the Perilous Labyrinth of Fog,2021-11-02,2021-11-23,Hu Tao (Rerun),Y,N,25226952,22,1146679.64
+2.3,Shadows Amidst Snowstorms,2021-11-24,2021-12-14,Albedo (Rerun) & Eula (Rerun),Y,Y,17026066,21,810765.05
+2.3,Shadows Amidst Snowstorms,2021-12-14,2022-01-04,Arataki Itto,N,N,13404072,22,609276.0
+2.4,Fleeting Colors in Flight,2022-01-05,2022-01-25,Shenhe & Xiao (Rerun),Y,Y,16994406,21,809257.43
+2.4,Fleeting Colors in Flight,2022-01-25,2022-02-15,Ganyu (Rerun) & Zhongli (2nd Rerun),Y,Y,26780298,22,1217286.27
+2.5,When the Sakura Bloom,2022-02-16,2022-03-08,Yae Miko,N,N,15110264,21,719536.38
+2.5,When the Sakura Bloom,2022-03-08,2022-03-29,Raiden Shogun (Rerun) &  Kokomi (Rerun),Y,Y,33560259,22,1525466.32
+2.6,Zephyr of the Violet Garden,2022-03-30,2022-04-19,Kamisato Ayato & Venti (2nd Rerun),Y,Y,22767455,21,1084164.52
+2.6,Zephyr of the Violet Garden,2022-04-19,2022-05-31,Kamisato Ayaka (Rerun),Y,N,35939066,43,835792.23
+2.7,Hidden Dreams in the Depths,2022-05-31,2022-06-21,Yelan & Xiao (2nd Rerun),Y,Y,32177144,22,1462597.45
+2.7,Hidden Dreams in the Depths,2022-06-21,2022-07-12,Arataki Itto (Rerun),Y,N,12586764,22,572125.64
+2.8,Summer Fantasia,2022-07-13,2022-08-02,Kaedehara Kazuha (Rerun) & Klee (2nd Rerun),Y,Y,24808479,21,1181356.14
+2.8,Summer Fantasia,2022-08-02,2022-08-23,Yoimiya (Rerun),Y,N,14333266,22,651512.09
+3.0,The Morn a Thousand Roses Brings,2022-08-23,2022-09-09,Tighnari & Zhongli (3rd Rerun),Y,Y,19068372,18,1059354.0
+3.0,The Morn a Thousand Roses Brings,2022-09-09,2022-09-27,Ganyu (2nd Rerun) &  Kokomi (2nd Rerun),Y,Y,15681840,19,825360.0
+3.1,King Deshret and the Three Magi,2022-09-27,2022-10-14,Cyno & Venti (3rd Rerun),Y,Y,19052023,18,1058445.72
+3.1,King Deshret and the Three Magi,2022-10-14,2022-11-01,Nilou & Albedo (2nd Rerun),Y,Y,15731680,19,827983.16
+3.2,"Akasha Pulses, the Kalpa Flame Rises",2022-11-01,2022-11-15,Nahida & Yoimiya (2nd Rerun),Y,Y,32101943,15,2140129.533
